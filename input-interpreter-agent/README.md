@@ -2,7 +2,7 @@
 
 # JMeter Agentic Framework
 
-An AI-powered system for automated JMeter performance test script generation from Swagger/OpenAPI specifications.
+An AIpowered system for automated JMeter performance test script generation from Swagger/OpenAPI specifications.
 
 ## Project Structure
 
